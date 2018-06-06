@@ -72,6 +72,8 @@ Have you built a few projects on your own on Github and you are comfortable putt
     Continuous Integration/ Continuous Delivery
     (…maaaaybe GraphQL)
 
+  ### Things to research
+
 #### Resources
 [Dont be a junior](https://medium.com/@andreineagoie/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a)
 [How to be a senior](https://hackernoon.com/developers-edge-how-to-become-a-senior-developer-f1ec1738cf45)
@@ -100,3 +102,5 @@ Have you built a few projects on your own on Github and you are comfortable putt
 - [Preparing for a Front-End Web Development Interview in 2017](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
 - [Cracking the front-end interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237)
 - [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+
+
